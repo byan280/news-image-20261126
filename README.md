@@ -17,7 +17,7 @@ python3 -P -s main.py
 ```
 
 The poster is written to `$MAKEFUN_OUTPUT_DIR` (or `./output` when the
-variable is not set) as `news-image-20261126.png`.
+variable is not set) as `entry.png`.
 
 ## How it works
 

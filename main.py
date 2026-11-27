@@ -17,7 +17,7 @@ import zlib
 
 WIDTH = 1600
 HEIGHT = 900
-OUTPUT_NAME = "news-image-20261126.png"
+OUTPUT_NAME = "entry.png"
 
 NAVY_TOP = (16, 35, 59)
 NAVY_BOTTOM = (8, 19, 34)
